@@ -4,7 +4,7 @@
 
 The Geospatial Data Management Application is a full-stack web application that allows users to manage and visualize geospatial data. Built with a Go backend and a React.js frontend, this application provides functionalities for user authentication, file uploads, map rendering, and shape management using React Leaflet.
 
- ## Project Live: [Click Here](bit.ly/4dSr9ho)
+ ## Project Live: [Click Here](https://geo-data-app-task.vercel.app/)
 
 ### Key Features
 - User authentication and account management.
